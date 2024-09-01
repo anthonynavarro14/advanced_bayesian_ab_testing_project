@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e63c77cb-4abf-4491-832d-7b6845020ad3)
+<img src="https://github.com/user-attachments/assets/e63c77cb-4abf-4491-832d-7b6845020ad3" alt="image" width="800"/>
 
 # Advanced Bayesian A/B testing Project
 
