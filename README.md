@@ -1,5 +1,18 @@
+![image](https://github.com/user-attachments/assets/e63c77cb-4abf-4491-832d-7b6845020ad3)
 
 # Advanced Bayesian A/B testing Project
+
+## Topics Covered
+
+Here are the main topics and concepts covered in this project:
+
+- 🧮 **Bernoulli Trials with Beta Priors and Monte Carlo Simulations**
+- 📊 **Beta-Binomial Model with CLT Approximations**
+- 🛡️ **Experimentation Risk Analysis using Gaussian Quadratures**
+- 📉 **Normal-Normal Model for Continuous Variables**
+- 🔍 **Risk Analysis using Gaussian Quadratures (for Normal-Normal Model)**
+
+
 ## Project Overview
 
 The main purpose of this project is to **compare Frequentist A/B testing approaches with Bayesian methods** and demonstrate why Bayesian methods offer superior interpretability and explainability in their results. Through this project, I aim to showcase the enhanced insights that Bayesian methods can provide in real-world scenarios, which are often complex and require nuanced decision-making.
@@ -28,6 +41,7 @@ If you're looking for specific sections or details, I encourage you to use **com
    - Normal-Normal Model
    - Risk Analysis for Continuous Variables
 6. [Conclusion](#conclusion)
+
 
 ## Purpose and Goals
 
